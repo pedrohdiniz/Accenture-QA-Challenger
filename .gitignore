@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Behave reports
+reports/
+
+# VS Code
+.vscode/
+
+# Screenshots de falhas
+*.png
