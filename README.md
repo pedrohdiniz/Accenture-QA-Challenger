@@ -38,10 +38,10 @@ Comando para criar a pasta do ambiente virtual (só precisa ser feito uma vez)
 python -m venv venv
 
 Comando para ATIVAR o ambiente (precisa ser feito toda vez que abrir um novo terminal)
-# Windows:
+#### Windows:
 .\venv\Scripts\activate
 
-# macOS ou Linux:
+#### macOS ou Linux:
 source venv/bin/activate
 
 **c. Dependências**
