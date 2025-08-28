@@ -30,7 +30,7 @@ Siga estas instruções para configurar o ambiente e rodar os testes.
 
 **a. Clone o Repositório**
 Abra um terminal (CMD, PowerShell, ou Terminal) e clone este projeto para a sua máquina:
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+git clone [https://github.com/pedrohdiniz/Accenture-QA-Challenger.git](https://github.com/pedrohdiniz/Accenture-QA-Challenger.git)
 cd ACCENTURE_QA_CHALLENGER
 
 **b. Crie e Ative um Ambiente Virtual**
